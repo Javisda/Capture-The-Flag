@@ -30,5 +30,6 @@
   <img src="Assets/GitImages/Characters.png"><br>
   <img src="Assets/GitImages/Connection.png"><br>
   <img src="Assets/GitImages/Hook.png"><br>
+  <img src="Assets/GitImages/HookPlayer.png"><br>
   <img src="Assets/GitImages/Ranking.png">
 </p>
